@@ -1,4 +1,4 @@
-What is Machine Translation?
+                                                             Machine Translation
 Machine translation is the process of using artificial intelligence to automatically translate text from one language to another without human involvement.
 
 
