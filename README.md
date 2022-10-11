@@ -1,4 +1,7 @@
-                                                             Machine Translation
+  I have created a machine translation  model from scratch using base model encoder and decoder and t5 base model using Hugging face 
+  
+  
+                                                            Machine Translation Using Encoder and Decoder
 Machine translation is the process of using artificial intelligence to automatically translate text from one language to another without human involvement.
 
 
@@ -31,3 +34,12 @@ Here's the result of the model
 ![example](https://user-images.githubusercontent.com/102478403/193464545-96f8fcd6-7f13-4eb1-8680-6bd82b22e960.PNG)
 
 
+                                        Machine translation using t5 base model 
+
+Previously i have created a Language translation model using Encoder and Decoder model ,since encoder and decoder are base model and simple model and trained over small dataset due to which it cannot able to handle dynamic input
+
+So, i have created another machine translation model using t5 base model which is pretrained model and able to handle dynamic inputs Thanks to Hugging Face library and hosted it using Gradio Library
+
+![Screenshot (416)](https://user-images.githubusercontent.com/102478403/195020765-f4663210-8663-4028-915a-96cb283f18fe.png)
+
+                                        
